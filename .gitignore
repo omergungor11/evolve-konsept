@@ -1,0 +1,26 @@
+# Bağımlılıklar ve derleme çıktıları
+node_modules/
+.next/
+out/
+next-env.d.ts
+tsconfig.tsbuildinfo
+
+# Lighthouse CI çıktıları
+.lighthouse/
+.lighthouseci/
+
+# Ortam dosyaları
+.env
+.env.local
+.env*.local
+.env.*
+!.env.example
+
+# Yerel araç ayarları ve Python önbelleği
+.claude/
+__pycache__/
+*.py[cod]
+
+# İşletim sistemi / editör artıkları
+.DS_Store
+*.log

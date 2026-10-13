@@ -1,0 +1,56 @@
+{
+  "viewport": "390x844",
+  "reference": {
+    "h": 9143,
+    "height": 844,
+    "hero": {
+      "bottom": 639.421875,
+      "height": 162,
+      "left": 16,
+      "right": 374,
+      "top": 477.421875,
+      "width": 358,
+      "x": 16,
+      "y": 477.421875
+    },
+    "scrollWidth": 390,
+    "sectionTop": [
+      {
+        "height": 1465.7109375,
+        "top": 0
+      },
+      {
+        "height": 560.6953125,
+        "top": 6529.7109375
+      }
+    ],
+    "width": 390
+  },
+  "replica": {
+    "h": 9143,
+    "height": 844,
+    "hero": {
+      "bottom": 639.421875,
+      "height": 162,
+      "left": 16,
+      "right": 374,
+      "top": 477.421875,
+      "width": 358,
+      "x": 16,
+      "y": 477.421875
+    },
+    "scrollWidth": 390,
+    "sectionTop": [
+      {
+        "height": 1465.7109375,
+        "top": 0
+      },
+      {
+        "height": 560.6953125,
+        "top": 6529.7109375
+      }
+    ],
+    "width": 390
+  },
+  "equal": true
+}

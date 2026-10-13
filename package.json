@@ -1,0 +1,15 @@
+{
+  "name": "weevolveit-local-replica",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Offline local replica preserving WeEvolveIT's public rendering and interactions.",
+  "scripts": {
+    "dev": "node server.mjs",
+    "start": "node server.mjs",
+    "build": "node scripts/verify-mirror.mjs",
+    "test": "node --test scripts/server.test.mjs",
+    "verify": "node scripts/verify-mirror.mjs"
+  },
+  "engines": {"node": ">=20"}
+}
