@@ -1,0 +1,36 @@
+{
+  "local": {
+    "diagnosis": {
+      "height": 577.59375,
+      "top": 6553.3046875
+    },
+    "h1": {
+      "height": 162,
+      "top": 477.421875,
+      "width": 347
+    },
+    "scrollWidth": 379,
+    "total": 9198,
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  "reference": {
+    "diagnosis": {
+      "height": 577.59375,
+      "top": 6553.3046875
+    },
+    "h1": {
+      "height": 162,
+      "top": 477.421875,
+      "width": 347
+    },
+    "scrollWidth": 379,
+    "total": 9198,
+    "viewport": [
+      390,
+      844
+    ]
+  }
+}

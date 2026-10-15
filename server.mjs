@@ -17,7 +17,7 @@ async function routes() {
   return entries;
 }
 function safePublicPath(urlPath) {
-  const file = path.resolve(publicDir, '.' + urlPath);
+  const file = path.resolve(publicDir, '.' + urlPath.replace(/^\/_next\/static\//, '/reference-assets/static/'));
   return file.startsWith(publicDir + path.sep) ? file : null;
 }
 function sanitizeHtml(html) {

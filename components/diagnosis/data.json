@@ -1,0 +1,282 @@
+{
+  "pains": [
+    {
+      "id": "ps1",
+      "text": "my site keeps slowing down",
+      "category": "performance",
+      "count": 28
+    },
+    {
+      "id": "ps2",
+      "text": "my ads don't bring in sales",
+      "category": "marketing",
+      "count": 22
+    },
+    {
+      "id": "ps3",
+      "text": "my site crashes every week",
+      "category": "performance",
+      "count": 9
+    },
+    {
+      "id": "ps4",
+      "text": "my team isn't closing deals",
+      "category": "sales",
+      "count": 14
+    },
+    {
+      "id": "ps5",
+      "text": "I don't know who's actually productive",
+      "category": "operations",
+      "count": 11
+    },
+    {
+      "id": "ps6",
+      "text": "my inventory is a mess",
+      "category": "operations",
+      "count": 7
+    },
+    {
+      "id": "ps7",
+      "text": "I run my whole business on spreadsheets",
+      "category": "operations",
+      "count": 19
+    },
+    {
+      "id": "ps8",
+      "text": "leads disappear before they reach sales",
+      "category": "sales",
+      "count": 13
+    },
+    {
+      "id": "ps9",
+      "text": "my support team is drowning",
+      "category": "support",
+      "count": 8
+    },
+    {
+      "id": "ps10",
+      "text": "growing is costing more than it's worth",
+      "category": "operations",
+      "count": 16
+    },
+    {
+      "id": "ps11",
+      "text": "every new tool turns into a headache",
+      "category": "operations",
+      "count": 24
+    },
+    {
+      "id": "ps12",
+      "text": "I don't even know my real numbers",
+      "category": "data",
+      "count": 12
+    }
+  ],
+  "descriptions": {
+    "en": {
+      "process-redesign": "We map your team's workflow end-to-end and rebuild what's broken — from handoffs to handovers.",
+      "pipeline-analytics": "Real metrics on what's actually moving deals forward, not vanity dashboards.",
+      "team-enablement": "Coaching, playbooks, and rhythms that turn a team into a system.",
+      "positioning-audit": "We pressure-test how the market sees you and rewrite the story you tell.",
+      "campaign-rebuild": "Stripping the noise and rebuilding campaigns around what your buyers actually do.",
+      "messaging-clarity": "Sharpening the words on your site, decks, and ads until people get it in one read.",
+      "automation-suite": "Replacing manual ops with quiet, reliable systems your team can trust.",
+      "analytics-rebuild": "Cleaning up the measurement layer so the numbers you act on are the right ones.",
+      "dashboard-design": "Dashboards built for decisions, not for staring at — every chart earns its place.",
+      "measurement-framework": "We define what success means before we measure it, then build the rest backwards.",
+      "workflow-automation": "Routing, triage, and follow-up logic that keeps your team out of the queue.",
+      "knowledge-base": "A living repository of how your team handles things, written by the people who handle them.",
+      "infrastructure-audit": "We trace where your stack actually breaks under load and what it costs you to ignore it.",
+      "architecture-review": "Senior eyes on the system map — what's load-bearing, what's legacy, what's risk.",
+      "performance-ops": "Day-to-day discipline around latency, capacity, and cost — the kind that compounds."
+    },
+    "es": {
+      "process-redesign": "Mapeamos el flujo de tu equipo de punta a punta y reconstruimos lo que está roto — de los handoffs a las entregas.",
+      "pipeline-analytics": "Métricas reales de lo que de verdad mueve los tratos, no dashboards de vanidad.",
+      "team-enablement": "Coaching, playbooks y ritmos que convierten a un equipo en un sistema.",
+      "positioning-audit": "Ponemos a prueba cómo te ve el mercado y reescribimos la historia que cuentas.",
+      "campaign-rebuild": "Quitamos el ruido y reconstruimos las campañas en torno a lo que tus compradores realmente hacen.",
+      "messaging-clarity": "Afilamos las palabras de tu sitio, decks y anuncios hasta que se entiendan en una sola lectura.",
+      "automation-suite": "Reemplazamos la operación manual con sistemas silenciosos y confiables en los que tu equipo puede confiar.",
+      "analytics-rebuild": "Limpiamos la capa de medición para que los números sobre los que actúas sean los correctos.",
+      "dashboard-design": "Dashboards hechos para decidir, no para mirar — cada gráfica se gana su lugar.",
+      "measurement-framework": "Definimos qué significa el éxito antes de medirlo, y construimos el resto hacia atrás.",
+      "workflow-automation": "Lógica de ruteo, triage y seguimiento que mantiene a tu equipo fuera de la fila.",
+      "knowledge-base": "Un repositorio vivo de cómo tu equipo resuelve las cosas, escrito por quienes las resuelven.",
+      "infrastructure-audit": "Rastreamos dónde se rompe de verdad tu stack bajo carga y cuánto te cuesta ignorarlo.",
+      "architecture-review": "Ojos senior sobre el mapa del sistema — qué es estructural, qué es legado, qué es riesgo.",
+      "performance-ops": "Disciplina diaria sobre latencia, capacidad y costo — la que se acumula."
+    }
+  },
+  "categories": {
+    "sales": {
+      "line": "this isn't a tooling problem — it's a sales-process problem mistaking itself for one.",
+      "lineEs": "esto no es un problema de herramientas — es un problema de proceso de ventas disfrazado de uno.",
+      "matched": [
+        {
+          "slug": "process-redesign",
+          "name": "process redesign",
+          "nameEs": "rediseño de procesos",
+          "cases": 7
+        },
+        {
+          "slug": "pipeline-analytics",
+          "name": "pipeline analytics",
+          "nameEs": "analítica de pipeline",
+          "cases": 5
+        },
+        {
+          "slug": "team-enablement",
+          "name": "team enablement",
+          "nameEs": "habilitación de equipos",
+          "cases": 4
+        }
+      ]
+    },
+    "marketing": {
+      "line": "this isn't an ad-spend problem — it's a positioning problem in disguise.",
+      "lineEs": "esto no es un problema de inversión en anuncios — es un problema de posicionamiento disfrazado.",
+      "matched": [
+        {
+          "slug": "positioning-audit",
+          "name": "positioning audit",
+          "nameEs": "auditoría de posicionamiento",
+          "cases": 6
+        },
+        {
+          "slug": "campaign-rebuild",
+          "name": "campaign rebuild",
+          "nameEs": "rediseño de campañas",
+          "cases": 5
+        },
+        {
+          "slug": "messaging-clarity",
+          "name": "messaging clarity",
+          "nameEs": "claridad de mensaje",
+          "cases": 8
+        }
+      ]
+    },
+    "operations": {
+      "line": "this isn't a software problem — it's an operating-rhythm problem.",
+      "lineEs": "esto no es un problema de software — es un problema de ritmo operativo.",
+      "matched": [
+        {
+          "slug": "process-redesign",
+          "name": "process redesign",
+          "nameEs": "rediseño de procesos",
+          "cases": 9
+        },
+        {
+          "slug": "automation-suite",
+          "name": "automation suite",
+          "nameEs": "suite de automatización",
+          "cases": 6
+        },
+        {
+          "slug": "team-enablement",
+          "name": "team enablement",
+          "nameEs": "habilitación de equipos",
+          "cases": 4
+        }
+      ]
+    },
+    "data": {
+      "line": "this isn't a dashboards problem — it's a measurement problem.",
+      "lineEs": "esto no es un problema de dashboards — es un problema de medición.",
+      "matched": [
+        {
+          "slug": "analytics-rebuild",
+          "name": "analytics rebuild",
+          "nameEs": "rediseño de analítica",
+          "cases": 5
+        },
+        {
+          "slug": "dashboard-design",
+          "name": "dashboard design",
+          "nameEs": "diseño de dashboards",
+          "cases": 4
+        },
+        {
+          "slug": "measurement-framework",
+          "name": "measurement framework",
+          "nameEs": "marco de medición",
+          "cases": 3
+        }
+      ]
+    },
+    "support": {
+      "line": "this isn't a headcount problem — it's a workflow problem.",
+      "lineEs": "esto no es un problema de personal — es un problema de flujo de trabajo.",
+      "matched": [
+        {
+          "slug": "workflow-automation",
+          "name": "workflow automation",
+          "nameEs": "automatización de flujos",
+          "cases": 6
+        },
+        {
+          "slug": "team-enablement",
+          "name": "team enablement",
+          "nameEs": "habilitación de equipos",
+          "cases": 4
+        },
+        {
+          "slug": "knowledge-base",
+          "name": "knowledge base",
+          "nameEs": "base de conocimiento",
+          "cases": 3
+        }
+      ]
+    },
+    "performance": {
+      "line": "this isn't a server problem — it's an architecture problem.",
+      "lineEs": "esto no es un problema de servidores — es un problema de arquitectura.",
+      "matched": [
+        {
+          "slug": "infrastructure-audit",
+          "name": "infrastructure audit",
+          "nameEs": "auditoría de infraestructura",
+          "cases": 6
+        },
+        {
+          "slug": "architecture-review",
+          "name": "architecture review",
+          "nameEs": "revisión de arquitectura",
+          "cases": 5
+        },
+        {
+          "slug": "performance-ops",
+          "name": "performance ops",
+          "nameEs": "ops de rendimiento",
+          "cases": 4
+        }
+      ]
+    },
+    "general": {
+      "line": "this isn't the obvious problem you think it is — let us show you what we see.",
+      "lineEs": "esto no es el problema obvio que crees — déjanos mostrarte lo que vemos.",
+      "matched": [
+        {
+          "slug": "process-redesign",
+          "name": "process redesign",
+          "nameEs": "rediseño de procesos",
+          "cases": 7
+        },
+        {
+          "slug": "measurement-framework",
+          "name": "measurement framework",
+          "nameEs": "marco de medición",
+          "cases": 4
+        },
+        {
+          "slug": "team-enablement",
+          "name": "team enablement",
+          "nameEs": "habilitación de equipos",
+          "cases": 5
+        }
+      ]
+    }
+  }
+}

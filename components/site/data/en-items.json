@@ -1,0 +1,1010 @@
+[
+  {
+    "type": "service",
+    "title": "Nearshore Software Development",
+    "description": "Senior engineers on your business hours, no offshore lag.",
+    "href": "/services/nearshore-software-development",
+    "image": "/images/services/nearshore/hero.jpg"
+  },
+  {
+    "type": "service",
+    "title": "Custom Software Development",
+    "description": "Bespoke systems built around how you actually operate.",
+    "href": "/services/custom-software-development",
+    "image": "/images/services/custom-software-development/hero.jpg"
+  },
+  {
+    "type": "service",
+    "title": "Web Development",
+    "description": "Sites built to be read, trusted, and cited by AI.",
+    "href": "/services/web-development",
+    "image": "/images/services/web-development/hero.jpg"
+  },
+  {
+    "type": "service",
+    "title": "Mobile App Development",
+    "description": "Cross-platform & native apps, shipped fast.",
+    "href": "/services/mobile-app-development",
+    "image": "/images/services/mobile-app-development/hero.jpg"
+  },
+  {
+    "type": "service",
+    "title": "Legacy Modernization",
+    "description": "Move off old systems without the rip-and-replace risk.",
+    "href": "/services/legacy-system-modernization",
+    "image": "/images/services/legacy-system-modernization/hero.jpg"
+  },
+  {
+    "type": "service",
+    "title": "Cloud Migration",
+    "description": "Move to AWS, Azure, or GCP — scale on demand, cost less.",
+    "href": "/services/cloud-migration",
+    "image": "/images/services/cloud/hero-noc.jpg"
+  },
+  {
+    "type": "service",
+    "title": "Data & Analytics",
+    "description": "Turn scattered data into decisions you can act on.",
+    "href": "/services/data-analytics",
+    "image": "/images/services/data-analytics/hero.jpg"
+  },
+  {
+    "type": "service",
+    "title": "Industrial IoT",
+    "description": "Connect, monitor, and predict on the factory floor.",
+    "href": "/services/industrial-iot",
+    "image": "/images/services/industrial-iot/hero.jpg"
+  },
+  {
+    "type": "service",
+    "title": "AI Agent Development",
+    "description": "Production-grade AI agents that act, not just chat.",
+    "href": "/services/ai-agent-development",
+    "image": "/images/services/ai-agent-development/hero.jpg"
+  },
+  {
+    "type": "service",
+    "title": "AI Automation",
+    "description": "Automate the busywork end to end with AI.",
+    "href": "/services/ai-automation",
+    "image": "/images/services/ai-automation/hero.jpg"
+  },
+  {
+    "type": "service",
+    "title": "Digital Transformation",
+    "description": "Rewire how your business runs on technology.",
+    "href": "/services/digital-transformation",
+    "image": "/images/services/digital-transformation/hero-lam-fog.jpg"
+  },
+  {
+    "type": "service",
+    "title": "ERP Implementation",
+    "description": "ERP that ships — SAP, Odoo, custom — on time, on budget.",
+    "href": "/services/erp-implementation",
+    "image": "/images/services/erp/hero-warehouse.jpg"
+  },
+  {
+    "type": "service",
+    "title": "CRM Implementation",
+    "description": "Salesforce, HubSpot & custom CRM your team actually adopts.",
+    "href": "/services/crm-implementation",
+    "image": "/images/services/crm/hero-call.jpg"
+  },
+  {
+    "type": "service",
+    "title": "SEO",
+    "description": "Ranked on Google, found by the customers who matter.",
+    "href": "/services/seo",
+    "image": "/images/services/seo/hero.jpg"
+  },
+  {
+    "type": "service",
+    "title": "GEO / AEO",
+    "description": "Get cited by ChatGPT, Perplexity & Google AI Overviews.",
+    "href": "/services/generative-engine-optimization",
+    "image": "/images/services/generative-engine-optimization/hero.jpg"
+  },
+  {
+    "type": "service",
+    "title": "Paid Media",
+    "description": "ROI-focused Google & Meta ads that actually convert.",
+    "href": "/services/paid-media",
+    "image": "/images/services/paid-media/hero.jpg"
+  },
+  {
+    "type": "industry",
+    "title": "Manufacturing",
+    "description": "Hardware, windows, molds, metallurgy, abrasives.",
+    "href": "/case-studies/industries/manufacturing",
+    "image": "/case-studies/industry-covers/manufacturing.webp"
+  },
+  {
+    "type": "industry",
+    "title": "Retail & E-commerce",
+    "description": "Storefronts, furniture, mirrors, B2B hardware sellers.",
+    "href": "/case-studies/industries/retail-and-ecommerce",
+    "image": "/case-studies/industry-covers/retail-and-ecommerce.webp"
+  },
+  {
+    "type": "industry",
+    "title": "Healthcare",
+    "description": "Hospitals and clinical operations.",
+    "href": "/case-studies/industries/healthcare",
+    "image": "/case-studies/industry-covers/healthcare.webp"
+  },
+  {
+    "type": "industry",
+    "title": "Education",
+    "description": "Schools and educational institutions.",
+    "href": "/case-studies/industries/education",
+    "image": "/case-studies/industry-covers/education.webp"
+  },
+  {
+    "type": "industry",
+    "title": "Hospitality & Real Estate",
+    "description": "Hotels, tourism, vacation rentals, real estate.",
+    "href": "/case-studies/industries/hospitality-and-real-estate",
+    "image": "/case-studies/industry-covers/hospitality-and-real-estate.webp"
+  },
+  {
+    "type": "industry",
+    "title": "Gaming & Betting",
+    "description": "Casinos, sports betting, picks.",
+    "href": "/case-studies/industries/gaming-and-betting",
+    "image": "/case-studies/industry-covers/gaming-and-betting.webp"
+  },
+  {
+    "type": "industry",
+    "title": "Media & Publishing",
+    "description": "Newspapers, online magazines.",
+    "href": "/case-studies/industries/media-and-publishing",
+    "image": "/case-studies/industry-covers/media-and-publishing.webp"
+  },
+  {
+    "type": "industry",
+    "title": "Music & Entertainment",
+    "description": "Music events, artists, live entertainment.",
+    "href": "/case-studies/industries/music-and-entertainment",
+    "image": "/case-studies/industry-covers/music-and-entertainment.webp"
+  },
+  {
+    "type": "industry",
+    "title": "Technology & SaaS",
+    "description": "App development, SaaS companies, IT agencies, marketing agencies.",
+    "href": "/case-studies/industries/technology-and-saas",
+    "image": "/case-studies/industry-covers/technology-and-saas.webp"
+  },
+  {
+    "type": "industry",
+    "title": "Logistics",
+    "description": "Supply chain, fulfillment, distribution.",
+    "href": "/case-studies/industries/logistics",
+    "image": "/case-studies/industry-covers/logistics.webp"
+  },
+  {
+    "type": "industry",
+    "title": "Non-Profits",
+    "description": "NGOs and mission-driven organizations.",
+    "href": "/case-studies/industries/non-profits",
+    "image": "/case-studies/industry-covers/non-profits.webp"
+  },
+  {
+    "type": "case",
+    "title": "How a national flower and gift retailer turned scattered delivery photos into instant proof",
+    "description": "Hundreds of same-day deliveries a day, every one requiring photographic proof — and that proof lived in WhatsApp threads, couriers' personal phones and unnamed folders. When a customer complained, Customer Service went hunting. We automated capture, filing and retrieval inside the Google Workspace the company already owned, without asking a single courier to learn a new app.",
+    "href": "/case-studies/industries/logistics/delivery-evidence-automation-google-workspace",
+    "image": "/case-studies/anonymous-cover.webp"
+  },
+  {
+    "type": "case",
+    "title": "How an international hardware distributor went from invisible on Google to thousands of organic visits a month",
+    "description": "An international hardware distributor had thousands of products published and almost no presence on Google. Buyers searching by Part Number, SKU or UPC — the way B2B hardware is actually sourced — found nothing. Rather than rebuild a working Laravel platform, we engineered a custom SEO module into it. In weeks, more than 8,000 pages began indexing correctly and organic traffic went from negligible to thousands of monthly visits.",
+    "href": "/case-studies/industries/retail-and-ecommerce/technical-seo-b2b-hardware-catalog-laravel",
+    "image": "/case-studies/covers/technical-seo-hardware-catalog.webp"
+  },
+  {
+    "type": "blog",
+    "title": "AI agent governance: how to keep AI agents from going rogue",
+    "description": "AI agent governance is who owns each agent, what it may do, which actions need a human signature and who gets the alert. A risk-based framework and checklist.",
+    "href": "/blog/ai-agent-governance",
+    "image": "/blog/covers/ai-agent-governance-owner-tiers.webp"
+  },
+  {
+    "type": "blog",
+    "title": "AI agents for business: platforms vs custom-built agents (2026 guide)",
+    "description": "What AI agents do for a business, when a ready-made platform beats a custom build, and how much autonomy each task should get before a human signs off.",
+    "href": "/blog/ai-agents-for-business",
+    "image": "/blog/covers/ai-agents-business-platform-vs-custom.webp"
+  },
+  {
+    "type": "blog",
+    "title": "We won an Honorable Mention on Awwwards",
+    "description": "On September 14, 2026, weevolveit.com won an Honorable Mention on Awwwards. What that means, how the jury scores a site, and the four standards that got ours there.",
+    "href": "/blog/what-it-takes-to-get-nominated-on-awwwards",
+    "image": "/blog/covers/awwwards-x-weevolveit.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Why isn't my business showing up in ChatGPT? (and how to fix it)",
+    "description": "Your business isn't showing up in ChatGPT, usually because your content isn't structured for AI to extract and cite. How to check it and get mentioned.",
+    "href": "/blog/why-isnt-my-business-showing-up-in-chatgpt",
+    "image": "/blog/covers/not-showing-up-in-chatgpt.webp"
+  },
+  {
+    "type": "blog",
+    "title": "AI Visibility Index 2026: we tested 65 Mexican companies",
+    "description": "We audited 65 of Mexico's largest companies for AI search citability. The average score was 47/100, none had FAQ schema, and 98% let AI crawlers in.",
+    "href": "/blog/ai-visibility-index-mexico-2026",
+    "image": "/blog/covers/ai-visibility-index-mexico.webp"
+  },
+  {
+    "type": "blog",
+    "title": "AI business process automation: a practical guide",
+    "description": "What AI changes in business process automation (BPA), a step-by-step way to automate a real process, examples by function and the pitfalls that stall it.",
+    "href": "/blog/ai-business-process-automation",
+    "image": "/blog/covers/ai-business-process-automation.webp"
+  },
+  {
+    "type": "blog",
+    "title": "AI marketing automation that actually converts",
+    "description": "AI marketing automation adds segmentation, content generation, predictive scoring and real-time personalization on top of the rules you already run.",
+    "href": "/blog/ai-marketing-automation",
+    "image": "/blog/covers/ai-marketing-automation.webp"
+  },
+  {
+    "type": "blog",
+    "title": "AI vs automation: what's the difference?",
+    "description": "Automation follows fixed rules you wrote; AI makes judgment calls on messy input; intelligent automation combines both. Where each one wins.",
+    "href": "/blog/ai-vs-automation",
+    "image": "/blog/covers/ai-vs-automation.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Best AI automation tools (2026): an honest roundup",
+    "description": "The best AI automation tools in 2026 by category: Zapier, Make, n8n, UiPath, Power Automate, LLM APIs and Node-RED. What each is best for and the catch.",
+    "href": "/blog/best-ai-automation-tools-2026",
+    "image": "/blog/covers/best-ai-automation-tools-2026.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Best GEO tools and platforms (2026)",
+    "description": "The best GEO tools in 2026 by job: Profound, Otterly, Peec and Scrunch for AI citations, Surfer and Frase for AEO, Semrush and Ahrefs for SEO plus GEO.",
+    "href": "/blog/best-geo-tools-2026",
+    "image": "/blog/covers/best-geo-tools-2026.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Cross-platform vs native app development: which is right?",
+    "description": "Cross-platform ships one codebase faster and cheaper and runs near-native for most apps; native wins on performance at a higher cost. Which one you need.",
+    "href": "/blog/cross-platform-vs-native",
+    "image": "/blog/covers/cross-platform-vs-native.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Does SEO still matter in the age of AI search?",
+    "description": "Yes, SEO still matters in AI search: it is necessary but not sufficient. AI engines cite the same web SEO makes you visible on, and GEO and AEO stack on top.",
+    "href": "/blog/does-seo-still-matter-ai-search",
+    "image": "/blog/covers/does-seo-still-matter-ai-search.webp"
+  },
+  {
+    "type": "blog",
+    "title": "GEO vs SEO vs AEO: what's the difference?",
+    "description": "SEO wins rankings, AEO wins the direct answer slot and GEO wins citations inside AI answers. How they differ, where they overlap and why you run all three.",
+    "href": "/blog/geo-vs-seo-vs-aeo",
+    "image": "/blog/covers/geo-vs-seo-vs-aeo.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How long does it take to build a mobile app?",
+    "description": "A simple MVP takes 8-12 weeks, a mid-complexity app 4-6 months, and a complex app 9-12+ months. The phase-by-phase breakdown and what moves the timeline.",
+    "href": "/blog/how-long-to-build-an-app",
+    "image": "/blog/covers/how-long-to-build-an-app.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How to automate a business process (step by step)",
+    "description": "How to automate a business process: pick the right one, map it, decide rules vs AI, choose tooling, pilot with a human in the loop, measure ROI, then scale.",
+    "href": "/blog/how-to-automate-a-business-process",
+    "image": "/blog/covers/how-to-automate-a-business-process.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How to build a mobile app (step by step)",
+    "description": "How to build a mobile app step by step: validate the idea, scope an MVP, pick an approach, design, build, test, launch, and iterate. What each step takes.",
+    "href": "/blog/how-to-build-a-mobile-app",
+    "image": "/blog/covers/how-to-build-a-mobile-app.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How to get cited by Perplexity and Google AI Overviews",
+    "description": "Perplexity cites pages it finds in a live web search; AI Overviews cite pages already ranking on Google. Six steps to get cited by both engines.",
+    "href": "/blog/how-to-get-cited-perplexity-ai-overviews",
+    "image": "/blog/covers/how-to-get-cited-perplexity-ai-overviews.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How to rank on ChatGPT (and get cited by AI search)",
+    "description": "You can't pay to rank on ChatGPT: ranking means becoming a source it cites and recommends. The 7 steps to become that source and how to measure it.",
+    "href": "/blog/how-to-rank-on-chatgpt",
+    "image": "/blog/covers/how-to-rank-on-chatgpt.webp"
+  },
+  {
+    "type": "blog",
+    "title": "LLM SEO: optimizing content for large language models",
+    "description": "LLM SEO optimizes content so large language models can retrieve, understand and cite it. How LLMs read pages, the tactics that work and the myths to drop.",
+    "href": "/blog/llm-seo",
+    "image": "/blog/covers/llm-seo.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How much does mobile app development cost? (2026)",
+    "description": "How much does mobile app development cost in 2026? Ranges for simple, mid-complexity and complex apps, the seven cost drivers, and how to spend less.",
+    "href": "/blog/mobile-app-development-cost",
+    "image": "/blog/covers/mobile-app-development-cost.webp"
+  },
+  {
+    "type": "blog",
+    "title": "React Native vs Flutter: which should you choose?",
+    "description": "React Native vs Flutter: React Native wins on JavaScript talent and ecosystem reuse; Flutter wins on consistent UI and rendering speed. How to choose.",
+    "href": "/blog/react-native-vs-flutter",
+    "image": "/blog/covers/react-native-vs-flutter.webp"
+  },
+  {
+    "type": "blog",
+    "title": "What is AI automation? (and what it actually costs)",
+    "description": "AI automation is software that uses AI for work that needs judgment, not just fixed rules. How it differs from RPA, where it pays off and what it costs.",
+    "href": "/blog/what-is-ai-automation",
+    "image": "/blog/covers/ai-automation-what-is.webp"
+  },
+  {
+    "type": "blog",
+    "title": "What is answer engine optimization (AEO)?",
+    "description": "Answer engine optimization (AEO) structures your content so it becomes the direct answer in featured snippets, voice results and Google AI Overviews.",
+    "href": "/blog/what-is-answer-engine-optimization",
+    "image": "/blog/covers/what-is-answer-engine-optimization.webp"
+  },
+  {
+    "type": "blog",
+    "title": "What is generative engine optimization (GEO)? (and what it costs)",
+    "description": "GEO is optimizing content so ChatGPT, Perplexity, Google AI Overviews, Gemini and Copilot cite you as a source. How it works, what it includes and costs.",
+    "href": "/blog/what-is-generative-engine-optimization",
+    "image": "/blog/covers/what-is-generative-engine-optimization.webp"
+  },
+  {
+    "type": "blog",
+    "title": "What is mobile app development? (a practical guide)",
+    "description": "Mobile app development explained without hype: app types, the build process step by step, what drives cost and timeline, and how to choose a partner.",
+    "href": "/blog/what-is-mobile-app-development",
+    "image": "/blog/covers/what-is-mobile-app-development.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Agentic AI vs generative AI vs chatbots: what's the difference?",
+    "description": "A chatbot answers, generative AI creates and agentic AI acts. How the three differ, where each one fits and what each one costs to ship.",
+    "href": "/blog/agentic-ai-vs-generative-ai-vs-chatbots",
+    "image": "/blog/covers/ai-agentic-vs-logos.webp"
+  },
+  {
+    "type": "blog",
+    "title": "What does AI agent development cost? (2026)",
+    "description": "AI agent development runs from ~$25K for a scoped single-agent build to $500K+ for enterprise multi-agent systems. What drives the price and hidden costs.",
+    "href": "/blog/ai-agent-development-cost",
+    "image": "/blog/covers/ai-cost-hybrid.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How to add AI agents to your existing ERP",
+    "description": "You can add AI agents to your existing ERP without a re-implementation: connect them to your data and automate quotations, analysis and reporting.",
+    "href": "/blog/ai-agents-for-erp",
+    "image": "/blog/covers/ai-agents-erp-hybrid.webp"
+  },
+  {
+    "type": "blog",
+    "title": "AI in data analytics: what's real in 2026",
+    "description": "AI in data analytics works on narrow, repeatable jobs: forecasting, anomaly detection and plain-English queries on clean data. What is real in 2026.",
+    "href": "/blog/ai-in-data-analytics",
+    "image": "/blog/covers/ai-in-data-hybrid.webp"
+  },
+  {
+    "type": "blog",
+    "title": "AWS vs Azure vs GCP: which cloud for your migration?",
+    "description": "AWS vs Azure vs GCP comes down to fit: AWS has the widest catalog, Azure wins on Microsoft estates, GCP leads on data and Kubernetes. How to pick yours.",
+    "href": "/blog/aws-vs-azure-vs-gcp",
+    "image": "/blog/covers/cloud-aws-azure-gcp-hall.webp"
+  },
+  {
+    "type": "blog",
+    "title": "The real benefits of cloud migration, with numbers",
+    "description": "The benefits of cloud migration show up as lower run cost, faster releases, and less downtime. The numbers behind each, and which apply to your workloads.",
+    "href": "/blog/benefits-of-cloud-migration",
+    "image": "/blog/covers/cloud-benefits-technician.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Best nearshore software development companies in Mexico (2026)",
+    "description": "The best nearshore software development companies in Mexico win on fit: US time-zone overlap, senior engineers, domain fit and references. Our 2026 scorecard.",
+    "href": "/blog/best-nearshore-software-development-companies-mexico",
+    "image": "/blog/covers/nearshore-best-mexico-office.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Best web development companies in Texas & Monterrey (2026)",
+    "description": "The best web development companies for Texas and Monterrey in 2026: US agencies, directories like Clutch and nearshore firms, plus 5 criteria to choose one.",
+    "href": "/blog/best-web-development-companies-texas-monterrey",
+    "image": "/blog/covers/redef-best-companies-austin.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Build vs buy software: the real trade-offs",
+    "description": "Build vs buy software: build when the software is your edge, buy when the need is generic. The real trade-offs, the costs, and how to know which side you're on.",
+    "href": "/blog/build-vs-buy-software",
+    "image": "/blog/covers/csw-build.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Cloud cost optimization: a FinOps 101 guide to stop overpaying",
+    "description": "Cloud cost optimization stops the bill from running you. A FinOps 101 guide: where the waste hides, the levers that move spend, and how to keep it down.",
+    "href": "/blog/cloud-cost-optimization-finops",
+    "image": "/blog/covers/cloud-finops-optimization.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Cloud migration challenges (and how to avoid them)",
+    "description": "The most common cloud migration challenges are runaway costs, downtime, security gaps, and scope drift. A practical way to avoid each before it derails you.",
+    "href": "/blog/cloud-migration-challenges",
+    "image": "/blog/covers/cloud-challenges-cables.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Cloud migration strategy: a step-by-step playbook",
+    "description": "A cloud migration strategy turns the move into a sequence, not a gamble. The playbook: assessment, the 6 Rs, sequencing, cost control, and common pitfalls.",
+    "href": "/blog/cloud-migration-strategy",
+    "image": "/blog/covers/cloud-migration-strategy-aisle.webp"
+  },
+  {
+    "type": "blog",
+    "title": "CRM implementation best practices (adoption-first)",
+    "description": "Most CRM rollouts fail on adoption, not technology. Adoption-first CRM implementation best practices: clean data, mapped processes, and a phased rollout.",
+    "href": "/blog/crm-implementation-best-practices",
+    "image": "/blog/covers/crm-best-practices-team-win.webp"
+  },
+  {
+    "type": "blog",
+    "title": "CRM implementation cost: what drives the number",
+    "description": "CRM implementation cost is licenses plus services plus the hidden cost of low adoption. What drives the number, how to estimate it, and where nearshore saves.",
+    "href": "/blog/crm-implementation-cost",
+    "image": "/blog/covers/crm-cost-handshake.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Custom Healthcare Software Development (HIPAA-aware)",
+    "description": "Custom healthcare software is built for a provider, payer, or health-tech company around real clinical workflows, HIPAA-aware from day one. Scope and cost.",
+    "href": "/blog/custom-healthcare-software",
+    "image": "/blog/covers/healthcare-sw.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Custom software development cost (2026)",
+    "description": "Custom software development typically costs $50K-$250K+ in 2026, set by scope, complexity, and where your team sits. The breakdown, and how nearshore helps.",
+    "href": "/blog/custom-software-development-cost",
+    "image": "/blog/covers/csw-cost.webp"
+  },
+  {
+    "type": "blog",
+    "title": "The custom software development process, step by step",
+    "description": "The custom software development process runs discovery, design, build, test, deploy, and evolve. How each phase works and where custom builds go wrong.",
+    "href": "/blog/custom-software-development-process",
+    "image": "/blog/covers/csw-process.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Custom software vs off-the-shelf: which is right?",
+    "description": "Custom software vs off-the-shelf is fit versus speed: a system built to your workflow, or a ready-made product you adopt today. How to choose, and the cost.",
+    "href": "/blog/custom-software-vs-off-the-shelf",
+    "image": "/blog/covers/csw-vs-offshelf.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How much does a custom website cost? (2026)",
+    "description": "What a custom website costs in 2026: real price ranges, the factors that move the number, and how nearshore teams in Mexico deliver US-quality sites for less.",
+    "href": "/blog/custom-website-cost",
+    "image": "/blog/covers/redef-custom-cost-code-coins.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Custom website vs template / website builder",
+    "description": "A template gets you live fast and cheap; a custom website is built around your business so it converts, ranks, and scales. How to choose and what each costs.",
+    "href": "/blog/custom-website-vs-template",
+    "image": "/blog/covers/redef-custom-vs-template-screens.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How much do data analytics services cost? (2026)",
+    "description": "Data analytics services cost from a few thousand dollars for one dashboard to six figures for an end-to-end platform. What drives the price, by engagement.",
+    "href": "/blog/data-analytics-services-cost",
+    "image": "/blog/covers/data-cost.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Data analytics vs BI vs data science: what's the difference?",
+    "description": "BI reports what happened, analytics explains why and what to do, data science predicts what's next. When you need each, and how they stack into one capability.",
+    "href": "/blog/data-analytics-vs-bi-vs-data-science",
+    "image": "/blog/covers/data-vs-science.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Data engineering vs data analytics: the difference",
+    "description": "Data engineering builds the pipelines and warehouse; data analytics turns that data into decisions. What each role does, the tools, and which you need first.",
+    "href": "/blog/data-engineering-vs-data-analytics",
+    "image": "/blog/covers/data-engineering.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Digital transformation in healthcare",
+    "description": "Healthcare digital transformation modernizes care, operations, and data, from EHRs and telehealth to AI. What it covers, why it stalls, and staying compliant.",
+    "href": "/blog/digital-transformation-in-healthcare",
+    "image": "/blog/covers/dt-healthcare-collab.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How to build a digital transformation strategy",
+    "description": "A digital transformation strategy ties technology change to business outcomes. How to build one: the framework, the steps, the roadmap, and why most fail.",
+    "href": "/blog/digital-transformation-strategy",
+    "image": "/blog/covers/dt-strategy.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Digital transformation trends 2026 (AI-first)",
+    "description": "The digital transformation trends for 2026 all point to AI-first: agentic AI, data readiness, platform consolidation and why strategy without execution stalls.",
+    "href": "/blog/digital-transformation-trends-2026",
+    "image": "/blog/covers/dt-trends.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Ecommerce SEO: ranking product pages that sell",
+    "description": "Ecommerce SEO earns product and category pages organic traffic that converts: keyword intent, technical fixes, content, and the AI-search layer stores ignore.",
+    "href": "/blog/ecommerce-seo",
+    "image": "/blog/covers/seo-ecommerce-boutique.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Enterprise SEO: scaling organic across thousands of pages",
+    "description": "Enterprise SEO grows organic traffic across sites with thousands or millions of pages, where templates and crawl budget beat one-off tweaks. How to scale it.",
+    "href": "/blog/enterprise-seo",
+    "image": "/blog/covers/seo-enterprise-team.webp"
+  },
+  {
+    "type": "blog",
+    "title": "ERP implementation best practices: a de-risked playbook",
+    "description": "ERP implementation best practices that prevent failure: pick a right-fit system, phase the rollout, lock scope, clean your data, and de-risk go-live.",
+    "href": "/blog/erp-implementation-best-practices",
+    "image": "/blog/covers/erp-best-practices-tech.webp"
+  },
+  {
+    "type": "blog",
+    "title": "ERP implementation cost: what drives the number",
+    "description": "ERP implementation cost is licenses plus services plus your own team's time. What drives the price, a realistic cost breakdown, and how to keep it in check.",
+    "href": "/blog/erp-implementation-cost",
+    "image": "/blog/covers/erp-cost-smartfactory-office.webp"
+  },
+  {
+    "type": "blog",
+    "title": "ERP implementation phases: the step-by-step guide",
+    "description": "ERP implementation runs six core phases: discovery, design, build, data migration, testing, and training and go-live, then support. What each phase delivers.",
+    "href": "/blog/erp-implementation-phases",
+    "image": "/blog/covers/erp-phases-tech.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Google Ads vs Facebook Ads: which to start with?",
+    "description": "Google Ads captures people already searching for what you sell; Facebook Ads creates demand among people who aren't. Which to start with, and what each costs.",
+    "href": "/blog/google-ads-vs-facebook-ads",
+    "image": "/blog/covers/ppc-google-vs-meta-logos.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Healthcare data analytics: turning patient data into outcomes",
+    "description": "Healthcare data analytics turns scattered EHR, claims, device, and lab data into decisions that improve outcomes and lower cost. What it covers and costs.",
+    "href": "/blog/healthcare-data-analytics",
+    "image": "/blog/covers/data-healthcare.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How long does SEO take to work?",
+    "description": "SEO usually takes 3-6 months for early movement and 6-12 months for meaningful traffic and rankings. What drives the timeline, and how to spot progress early.",
+    "href": "/blog/how-long-does-seo-take",
+    "image": "/blog/covers/seo-howlong-seedling.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How long does it take to build a website?",
+    "description": "Most websites take 4 to 16 weeks: 4-8 for a marketing site, 8-12 for ecommerce, and 12-16+ for a custom web app. What actually drives the schedule.",
+    "href": "/blog/how-long-to-build-a-website",
+    "image": "/blog/covers/redef-howlong-code-hourglass.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How to build an AI agent (a high-level guide)",
+    "description": "How to build an AI agent in 6 steps: scope one job, pick a model and framework, give it tools, add memory and guardrails, then test it for production.",
+    "href": "/blog/how-to-build-an-ai-agent",
+    "image": "/blog/covers/ai-build-hybrid.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How to build an AI agent for WhatsApp",
+    "description": "To build an AI agent for WhatsApp, connect the WhatsApp Business API to an LLM, define its tasks and wire it into your systems. A 5-step practical guide.",
+    "href": "/blog/how-to-build-an-ai-agent-for-whatsapp",
+    "image": "/blog/covers/ai-whatsapp-hybrid.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How to choose a custom software development company",
+    "description": "Choose a custom software company on fit, not headline rates: seniority, IP ownership, process, time-zone overlap, and total cost, plus a scoring checklist.",
+    "href": "/blog/how-to-choose-a-custom-software-company",
+    "image": "/blog/covers/csw-choose.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How to choose a PPC agency (avoid the markups)",
+    "description": "Choosing a PPC agency comes down to who owns the account, how they charge, and what they optimize for. The checklist that spots a markup on your ad spend.",
+    "href": "/blog/how-to-choose-a-ppc-agency",
+    "image": "/blog/covers/ppc-choose-meta.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How to choose the right ERP (not the most expensive)",
+    "description": "Choose an ERP on fit, not price: a vendor-neutral way to score NetSuite, SAP, Odoo, Dynamics, and Acumatica against what your business actually needs.",
+    "href": "/blog/how-to-choose-an-erp",
+    "image": "/blog/covers/erp-choose-logos.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How to choose an SEO agency (avoid the snake oil)",
+    "description": "Choose an SEO agency on evidence, not promises: the questions to ask, the red flags that signal snake oil, and the criteria that separate a real partner.",
+    "href": "/blog/how-to-choose-an-seo-agency",
+    "image": "/blog/covers/seo-choose-agency-handshake.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How to implement a CRM system: a step-by-step plan",
+    "description": "How to implement a CRM step by step: set goals, choose the platform, map your process, clean and migrate data, integrate, pilot, then train for adoption.",
+    "href": "/blog/how-to-implement-a-crm",
+    "image": "/blog/covers/crm-implement-sales-planning.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How to integrate legacy systems with modern platforms",
+    "description": "Integrate legacy systems by wrapping them in APIs behind a stable boundary, then migrate in steps so cloud, apps and AI connect without a big-bang rewrite.",
+    "href": "/blog/how-to-integrate-legacy-systems",
+    "image": "/blog/covers/legacy-integrate.webp"
+  },
+  {
+    "type": "blog",
+    "title": "IIoT vs IoT: what's the difference?",
+    "description": "IIoT vs IoT: consumer IoT runs homes and gadgets; industrial IoT runs factories, grids and supply chains where downtime costs money. The difference explained.",
+    "href": "/blog/iiot-vs-iot",
+    "image": "/blog/covers/iiot-vs-iot-sensor.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Industrial IoT applications: 10 real-world use cases",
+    "description": "The 10 industrial IoT applications with the highest ROI, from predictive maintenance to OEE and asset tracking, and what each one connects and predicts.",
+    "href": "/blog/industrial-iot-applications",
+    "image": "/blog/covers/iiot-applications-floor.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How much does an industrial IoT project cost? (2026)",
+    "description": "Industrial IoT cost depends on how many machines you connect, how deep the analytics go and who builds it. A 2026 breakdown by pilot, platform and maintenance.",
+    "href": "/blog/industrial-iot-cost",
+    "image": "/blog/covers/iiot-cost-install.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Industry 4.0 & the smart factory: a starting roadmap",
+    "description": "An Industry 4.0 smart factory connects machines, surfaces real-time data and uses AI to predict failures. A phased roadmap to get there without rip-and-replace.",
+    "href": "/blog/industry-4-0-smart-factory-roadmap",
+    "image": "/blog/covers/iiot-industry40-smartfactory.webp"
+  },
+  {
+    "type": "blog",
+    "title": "IoT predictive maintenance: how AI cuts downtime",
+    "description": "IoT predictive maintenance uses sensor data and AI to predict equipment failures before they happen. How it works, what it costs and how to roll it out.",
+    "href": "/blog/iot-predictive-maintenance",
+    "image": "/blog/covers/iiot-predictive-maintenance.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Legacy modernization approaches: the 7 Rs explained",
+    "description": "The 7 Rs of legacy modernization: retain, retire, rehost, replatform, refactor, rearchitect and rebuild. What each means, its risk, and how to pick one.",
+    "href": "/blog/legacy-modernization-approaches-7-rs",
+    "image": "/blog/covers/legacy-7rs.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Legacy modernization strategy: a step-by-step plan",
+    "description": "A legacy modernization strategy is a staged plan to upgrade old systems without breaking the business: assess, prioritize, wrap, modernize, then retire.",
+    "href": "/blog/legacy-modernization-strategy",
+    "image": "/blog/covers/legacy-strategy.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Legacy modernization tools (2026)",
+    "description": "Legacy modernization tools for 2026, sorted by job: assessment, code analysis and AI translation, API wrapping, cloud migration and testing. How to pick yours.",
+    "href": "/blog/legacy-modernization-tools-2026",
+    "image": "/blog/covers/legacy-tools-v2.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Lift-and-shift vs re-architecting: which migration approach?",
+    "description": "Lift-and-shift moves apps to the cloud as-is for speed; re-architecting rebuilds them cloud-native for long-term cost and scale. How to choose per workload.",
+    "href": "/blog/lift-and-shift-vs-re-architecting",
+    "image": "/blog/covers/cloud-lift-shift-install.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Local SEO: the complete guide (Monterrey / Texas)",
+    "description": "Local SEO puts a business in Google's map pack and 'near me' searches. The Monterrey and Texas playbook: Business Profile, citations, reviews and geo signals.",
+    "href": "/blog/local-seo-complete-guide",
+    "image": "/blog/covers/seo-local-storefront.webp"
+  },
+  {
+    "type": "blog",
+    "title": "How to lower your cost per acquisition",
+    "description": "How to lower cost per acquisition on Google and Meta: fix tracking, cut wasted spend, tighten targeting and improve the page after the click.",
+    "href": "/blog/lower-cost-per-acquisition",
+    "image": "/blog/covers/ppc-lower-cpa-sprout.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Modernize vs rebuild: which is right for your legacy system?",
+    "description": "Modernize vs rebuild: modernizing keeps working business logic and upgrades it in steps; rebuilding starts over. How to choose, and why rewrites rarely pay.",
+    "href": "/blog/modernize-vs-rebuild",
+    "image": "/blog/covers/legacy-modernize-rebuild.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Nearshore software development rates in 2026",
+    "description": "Nearshore software development rates run about $40 to $75 per hour for US clients in 2026. Rates by role, seniority and country, plus the cost that matters.",
+    "href": "/blog/nearshore-software-development-rates",
+    "image": "/blog/covers/nearshore-rates-team.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Nearshore vs offshore software development: the real cost comparison",
+    "description": "Offshore wins on hourly rate; nearshore wins on total cost of delivery. Nearshore vs offshore compared on time zones, rework, communication and real cost.",
+    "href": "/blog/nearshore-vs-offshore",
+    "image": "/blog/covers/nearshore-vs-offshore.webp"
+  },
+  {
+    "type": "blog",
+    "title": "NetSuite vs Odoo vs Dynamics: which ERP fits?",
+    "description": "NetSuite vs Odoo vs Microsoft Dynamics 365, compared vendor-neutral on fit, cost and complexity, so you pick the ERP you need, not the priciest one.",
+    "href": "/blog/netsuite-vs-odoo-vs-dynamics",
+    "image": "/blog/covers/erp-netsuite-vs-logos.webp"
+  },
+  {
+    "type": "blog",
+    "title": "On-premise to cloud: the migration checklist",
+    "description": "An on-premise to cloud migration checklist for US teams, from discovery and the 6 Rs to cutover and FinOps. Leave the data center without breaking what works.",
+    "href": "/blog/on-premise-to-cloud-migration-checklist",
+    "image": "/blog/covers/cloud-onprem-checklist.webp"
+  },
+  {
+    "type": "blog",
+    "title": "PPC management cost: what you actually pay",
+    "description": "PPC management cost is the agency fee to run your ads, separate from ad spend. Percent-of-spend vs flat fee, what's included, and how to avoid overpaying.",
+    "href": "/blog/ppc-management-cost",
+    "image": "/blog/covers/ppc-cost-meta.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Salesforce vs HubSpot vs Zoho: which CRM fits?",
+    "description": "Salesforce vs HubSpot vs Zoho, compared vendor-neutral by team size, budget and sales complexity, so you pick the CRM your reps will actually use.",
+    "href": "/blog/salesforce-vs-hubspot-vs-zoho",
+    "image": "/blog/covers/crm-salesforce-vs-logos.webp"
+  },
+  {
+    "type": "blog",
+    "title": "SEO vs PPC: which should you invest in?",
+    "description": "SEO vs PPC is not either/or: PPC buys traffic now, SEO compounds it later. Compare cost, speed and ROI, and see which one to fund first for your business.",
+    "href": "/blog/seo-vs-ppc",
+    "image": "/blog/covers/redef-seo-vs-ppc-dollars.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Technical SEO checklist (2026)",
+    "description": "A 2026 technical SEO checklist: crawlability, indexation, Core Web Vitals, structured data and the AI-search basics to rank on Google and get cited by AI.",
+    "href": "/blog/technical-seo-checklist-2026",
+    "image": "/blog/covers/seo-technical-keyboard.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Top digital transformation consulting firms (2026)",
+    "description": "Top digital transformation consulting firms in 2026: Big-3 strategy houses, Big-4 advisory and execution partners that also build. How to pick the right one.",
+    "href": "/blog/top-digital-transformation-consulting-firms",
+    "image": "/blog/covers/dt-top-firms-consultants.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Web app vs website: what's the difference?",
+    "description": "Web app vs website: a website shows information, a web app lets you act on it. The real difference in interactivity, cost and build time, and which you need.",
+    "href": "/blog/web-app-vs-website",
+    "image": "/blog/covers/redef-webapp-vs-website.webp"
+  },
+  {
+    "type": "blog",
+    "title": "What are SEO services? (and what to actually pay for)",
+    "description": "SEO services are the work that gets your site found on Google and cited by AI. What's included, what each part is worth, and which items to pay for or skip.",
+    "href": "/blog/what-are-seo-services",
+    "image": "/blog/covers/redef-seo-services-google.webp"
+  },
+  {
+    "type": "blog",
+    "title": "What is AI ERP (agentic ERP)?",
+    "description": "AI ERP, also called agentic ERP, is ERP software where AI agents act on your live business data: drafting quotes, flagging anomalies and running workflows.",
+    "href": "/blog/what-is-ai-erp",
+    "image": "/blog/covers/ai-erp-hybrid.webp"
+  },
+  {
+    "type": "blog",
+    "title": "What is an AI agent? (in simple terms)",
+    "description": "An AI agent is software that uses an AI model to decide and act on its own toward a goal. How it works, an example and how it differs from a chatbot.",
+    "href": "/blog/what-is-an-ai-agent",
+    "image": "/blog/covers/ai-what-is-hybrid.webp"
+  },
+  {
+    "type": "blog",
+    "title": "What is data analytics? (for business, and what it costs)",
+    "description": "Data analytics turns raw business data into decisions through pipelines, dashboards and insights. How it works, the maturity ladder and what services cost.",
+    "href": "/blog/what-is-data-analytics",
+    "image": "/blog/covers/data-what-is.webp"
+  },
+  {
+    "type": "blog",
+    "title": "What is digital transformation? (2026 guide)",
+    "description": "Digital transformation rebuilds how a business runs (technology, processes, people) around AI-first software. What it means, why it fails and what it costs.",
+    "href": "/blog/what-is-digital-transformation",
+    "image": "/blog/covers/dt-what-is.webp"
+  },
+  {
+    "type": "blog",
+    "title": "What is GEO & AEO? Getting cited by AI search",
+    "description": "GEO gets you cited inside AI answers; AEO gets you picked as the direct answer. What each one means, how they differ from SEO and how to get chosen.",
+    "href": "/blog/what-is-geo-and-aeo",
+    "image": "/blog/covers/geo-aeo-logos.webp"
+  },
+  {
+    "type": "blog",
+    "title": "What is Industrial IoT (IIoT)? (and what it costs)",
+    "description": "Industrial IoT (IIoT) connects machines, sensors and PLCs to software that monitors the floor and predicts failures. How it works and what a project costs.",
+    "href": "/blog/what-is-industrial-iot",
+    "image": "/blog/covers/iiot-what-is-cables.webp"
+  },
+  {
+    "type": "blog",
+    "title": "What is legacy system modernization? (2026 guide)",
+    "description": "Legacy system modernization moves outdated software, mainframes and aging platforms to modern infrastructure without losing business logic. Approaches and cost.",
+    "href": "/blog/what-is-legacy-system-modernization",
+    "image": "/blog/covers/legacy-what-is.webp"
+  },
+  {
+    "type": "blog",
+    "title": "What is nearshore software development? A 2026 guide",
+    "description": "Nearshore software development means hiring a team in a nearby country, usually Mexico for US companies, to share working hours. How it works and what it costs.",
+    "href": "/blog/what-is-nearshore-software-development",
+    "image": "/blog/covers/nearshore-team-daylight.webp"
+  },
+  {
+    "type": "blog",
+    "title": "What is PPC? (and what it actually costs)",
+    "description": "PPC (pay-per-click) lets you buy visibility on Google and Meta and pay only when someone clicks. How PPC works, what it actually costs and when it's worth it.",
+    "href": "/blog/what-is-ppc",
+    "image": "/blog/covers/ppc-what-is-explaining.webp"
+  },
+  {
+    "type": "blog",
+    "title": "What is web development? (vs web design, and cost)",
+    "description": "Web development is the engineering that builds and runs a website. How it differs from web design, what a custom build costs, and how the two work together.",
+    "href": "/blog/what-is-web-development",
+    "image": "/blog/covers/redef-whatis-webdev-code.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Why AI agents fail in production",
+    "description": "AI agents fail in production for four reasons: brittle handoffs, broken auth, no human in the loop and immature web infrastructure. How to ship one that lasts.",
+    "href": "/blog/why-ai-agents-fail-in-production",
+    "image": "/blog/covers/ai-why-fail-core.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Why CRM implementations fail (and the adoption fix)",
+    "description": "Most CRM implementations fail for one reason: the team won't use the system. Why CRM projects fail, the warning signs, and the adoption-first fix that sticks.",
+    "href": "/blog/why-crm-implementations-fail",
+    "image": "/blog/covers/why-crm-fails-disengaged.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Why most digital transformations fail (and how to beat the odds)",
+    "description": "Roughly 70% of digital transformations fall short, usually from execution, not technology. Why they fail, the patterns behind it, and how to beat the odds.",
+    "href": "/blog/why-digital-transformations-fail",
+    "image": "/blog/covers/dt-why-fail.webp"
+  },
+  {
+    "type": "blog",
+    "title": "Why ERP implementations fail (and how to avoid it)",
+    "description": "ERP implementations fail on scope, data and adoption, not software. Why ERP projects overrun or stall, the early warning signs, and how to de-risk yours.",
+    "href": "/blog/why-erp-implementations-fail",
+    "image": "/blog/covers/why-erp-fails-halted-line.webp"
+  },
+  {
+    "type": "page",
+    "title": "WeEvolveIT",
+    "description": "Home",
+    "href": "/",
+    "image": null
+  },
+  {
+    "type": "page",
+    "title": "services",
+    "description": "",
+    "href": "/services",
+    "image": null
+  },
+  {
+    "type": "page",
+    "title": "method",
+    "description": "",
+    "href": "/method",
+    "image": null
+  },
+  {
+    "type": "page",
+    "title": "case studies",
+    "description": "",
+    "href": "/case-studies",
+    "image": null
+  },
+  {
+    "type": "page",
+    "title": "Blog",
+    "description": "",
+    "href": "/blog",
+    "image": null
+  },
+  {
+    "type": "page",
+    "title": "about",
+    "description": "",
+    "href": "/about",
+    "image": null
+  },
+  {
+    "type": "page",
+    "title": "reviews",
+    "description": "",
+    "href": "/reviews",
+    "image": null
+  },
+  {
+    "type": "page",
+    "title": "contact",
+    "description": "",
+    "href": "/contact",
+    "image": null
+  },
+  {
+    "type": "page",
+    "title": "AI Visibility Check",
+    "description": "",
+    "href": "/ai-check",
+    "image": null
+  },
+  {
+    "type": "page",
+    "title": "Free SEO Check",
+    "description": "",
+    "href": "/seo-check",
+    "image": null
+  }
+]

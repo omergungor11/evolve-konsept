@@ -21,7 +21,7 @@ async function check(asset) {
   references++;
   if (checked.has(asset)) return;
   checked.add(asset);
-  try {if (!(await stat(path.join(root,'public',asset))).isFile()) missing.add(asset);} catch {missing.add(asset);}
+  try {if (!(await stat(path.join(root,'public',asset.replace(/^\/?_next\//, 'reference-assets/')))).isFile()) missing.add(asset);} catch {missing.add(asset);}
 }
 async function checkUrl(value, base='https://weevolveit.com/') {
   if (value.startsWith('static/')) value = '/_next/' + value;
@@ -54,7 +54,7 @@ for (const entry of routes) {
   const payloads = [...html.matchAll(/self\.__next_f\.push\(\[1,("(?:\\.|[^"\\])*")\]\)/g)].map(match => JSON.parse(match[1])).join('');
   for (const match of payloads.matchAll(/["']((?:\/|static\/)[^"'\s\\]+\.(?:js|css|woff2?|ttf|otf|png|jpe?g|webp|avif|gif|svg|ico|mp4|webm|json|geojson|wasm)(?:\?[^"'\s\\]*)?)["']/g)) await checkUrl(match[1],entry.url);
 }
-const chunks = path.join(root,'public/_next/static/chunks');
+const chunks = path.join(root,'public/reference-assets/static/chunks');
 for (const file of await readdir(chunks)) {
   const source = await readFile(path.join(chunks,file),'utf8');
   if (file.endsWith('.js')) {
@@ -70,7 +70,7 @@ for (const target of Object.values(manifest.imageSources)) await check(typeof ta
 for (const asset of manifest.assets) {
   await check(asset.path);
   if (missing.has(asset.path)) continue;
-  const bytes = await readFile(path.join(root,'public',asset.path));
+  const bytes = await readFile(path.join(root,'public',asset.path.replace(/^\/?_next\//, 'reference-assets/')));
   if (bytes.length !== asset.bytes || createHash('sha256').update(bytes).digest('hex') !== asset.sha256) missing.add(`asset integrity: ${asset.path}`);
 }
 if (manifest.assetCount !== manifest.assets.length || manifest.totalBytes !== manifest.assets.reduce((total,asset) => total + asset.bytes,0)) missing.add('asset manifest totals');

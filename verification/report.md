@@ -1,5 +1,7 @@
 # WeEvolveIT kopyası — kontrol notları
 
+Bu, Next.js geçişinden önceki arşiv sürümünün tarihsel raporudur. Güncel uygulama ve kontroller [Next.js geçiş raporunda](next-migration.md) açıklanır.
+
 Kontrol tarihi: 13 Ekim 2026. Referans: https://weevolveit.com/. Yerel önizleme: http://localhost:4173/.
 
 ## Kapsam ve yöntem

@@ -1,34 +1,52 @@
-# WeEvolveIT — yerel replika
+# WeEvolveIT — Next.js konsept çalışması
 
-`https://weevolveit.com/` sitesinin 12 Ekim 2026 tarihinde alınmış, yerelde çalışan kopyası. Orijinal HTML, CSS, JavaScript, font ve görseller birlikte saklanır. Böylece masaüstü/mobil düzen, WebGL küresi, GSAP kaydırma animasyonları, yatay metot bölümü, yorum kartları, menüler ve çok adımlı etkileşimler özgün uygulama koduyla çalışır.
+WeEvolveIT sitesinin yerel kopyası, Next.js 16 App Router ve React 19 üzerinde çalışır. Masaüstü ve mobil tasarım, fontlar ve görseller referansın 12 Ekim 2026 tarihli arşivinden gelir. Küre, yorum şeridi, yatay metot sahnesi, arka plan dalgaları ve footer hareketleri düzenlenebilir React/GSAP/Three.js bileşenleridir.
 
 ## Çalıştırma
 
-Node.js 20 veya üstü yeterlidir; üçüncü parti npm bağımlılığı yoktur.
+Node.js 20.9 veya üstü gerekir.
 
 ```sh
 npm install
 npm run dev -- --port 4173
 ```
 
-Tarayıcı: http://localhost:4173
+Üretim sürümü:
 
-`npm start` varsayılan olarak 3000 portunu kullanır. `PORT=4173 npm start` da kullanılabilir. `npm run build` kaydedilen sayfalardaki görsel, betik, stil, font, veri ve dinamik paket referanslarını, ayrıca tüm varlıkların boyut ve SHA-256 bütünlüğünü denetler; ayrıca derleme gerektirmez. `npm test` tüm kayıtlı rotaların, varlıkların ve görsel eşlemelerinin yerel HTTP sunucusunda açıldığını, arama/küre desteğini ve dış servislere veri gönderilmesini önleyen sınırı doğrular.
+```sh
+npm run build
+npm start -- --port 4173
+```
 
-## Dosyalar
+Önizleme: [localhost:4173](http://localhost:4173/)
 
-- `reference/pages/`: özgün sayfa belgeleri; `reference/routes.json` rota envanteri.
-- `public/_next/static/`: özgün uygulama paketleri, stiller ve fontlar.
-- `public/images/`, `public/logos/`, `public/brand/`: yerel görseller.
-- `public/asset-manifest.json`: kaynak ve yerel dosya eşlemeleri.
-- `public/local/runtime.js`: yerel gezinme, konum verisi ve form demo uyarlaması.
-- `server.mjs`: harici ağa bağlanmadan kaydedilmiş sayfaları/görselleri sunan küçük HTTP sunucusu.
-- `scripts/mirror-pages.py`, `scripts/mirror-assets.py`: kaynak envanterini yeniden oluşturma araçları; yeniden indirme sırasında internet gerekir.
+## Yapı
 
-## Davranış ve sınırlar
+- `app/`: App Router sayfaları, layout ve yerel API uç noktaları.
+- `components/home/`: WebGL küresi, hero, yorumlar ve kaydırmaya bağlı beş aşamalı metot animasyonu.
+- `components/site/`: menüler, arama, noktalı arka plan, yumuşak kaydırma ve footer.
+- `components/diagnosis/`: React durumuyla çalışan tanı ve iletişim akışları.
+- `components/content/` ve `lib/reference.ts`: arşivlenmiş editoryal içeriği sunucuda React düğümlerine dönüştürür; iç bağlantılar Next.js Link kullanır.
+- `reference/pages/` ve `reference/routes.json`: 307 rotanın içerik kaynağı. İçerik anlık arşivdir; CMS bağlantısı yoktur.
+- `public/reference-assets/`: referansın stilleri, fontları ve araştırma için saklanan dağıtım paketleri. Arşiv JavaScript paketleri uygulamada çalıştırılmaz; /_next/ yalnızca yeni Next.js derlemesine aittir.
+- `public/images/`, `public/logos/`, `public/brand/`, `public/data/`: yerel görsel ve coğrafi varlıklar.
+- `server.mjs` ve `public/local/runtime.js`: önceki arşiv sunucusu; Next.js uygulamasının çalıştırma yolunda kullanılmaz.
 
-Sayfa içindeki animasyon ve durum değişiklikleri özgün React/GSAP uygulamasından gelir. İç bağlantılar yerel belgeleri açar; orijinal sunucuya ihtiyaç olmaması için sayfalar arası gezinme tam belge yüklemesi kullanır. Görseller için Next.js image uç noktası yerel orijinalleri sunar.
+## Kontroller
 
-Formların adımları ve doğrulaması korunmuştur. Son müşteri talebi gönderimi yerel demo olarak tamamlanır ve verilerin gönderilmediğini belirten bir bildirim gösterilir. E-posta/CRM/WhatsApp mesajı gönderilmez. Canlı analiz servisleri gerektiren araçların sunucu işlemleri çevrimdışı kopyada çalışmaz. Analytics, reklam pikselleri ve üçüncü taraf veri istekleri engellenir. Küre üzerindeki konum Ankara olarak sabitlenmiştir. Harici sosyal medya bağlantıları normal dış bağlantılar olarak kalır.
+```sh
+npm run typecheck
+npm run build
+npm test
+npm run verify
+```
 
-Kaynak sitenin telif/marka hakları ilgili sahiplerine aittir. Bu çalışma kullanıcı talebi üzerine yerel inceleme ve geliştirme içindir.
+npm test, üretim derlemesini geçici bir portta açar; tüm rotaları, yerel API sınırını ve arşiv betiklerinin yüklenmediğini kontrol eder. npm run verify, arşivdeki bağlantı ve varlık referanslarını, dosya boyutlarını ve SHA-256 bütünlüğünü doğrular. Tarayıcı kontrol notları verification/ klasöründedir.
+
+Güncel sonuçlar: [Next.js geçiş raporu](verification/next-migration.md).
+
+## Yerel demo davranışı
+
+Form adımları ve doğrulama yerelde çalışır. /api/lead başarılı demo yanıtında local: true, delivered: false döndürür; kişisel bilgiler saklanmaz veya e-posta/CRM/WhatsApp üzerinden gönderilmez. Canlı analiz gerektiren diğer API işlemleri 503 ile açıkça yerel önizleme sınırını bildirir. Arşivdeki analytics betikleri yüklenmez. Küre üzerindeki konum Ankara olarak sabittir; dış sosyal medya bağlantıları normal bağlantılardır.
+
+Referansın marka ve içerik hakları ilgili sahiplerine aittir.
